@@ -87,3 +87,5 @@ public static void main(String[] args) {
         System.out.printf ("\nTemos: "+somaImpar+" números ímpares...");
     }
 }
+
+do while
