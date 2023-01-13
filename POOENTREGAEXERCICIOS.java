@@ -88,7 +88,7 @@ public class FUNCIONARIO {
 
 
 
-
+extends
 package FUNCIONARIO;
 
 import CLIENTE.CLIENTE;
